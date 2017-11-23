@@ -1,1 +1,5 @@
-## Experiments on interpretability and sparsity of probabilistic word embeddings.
+## Experiments on probabilistic word embeddings:
+- word similarity tasks
+- interpretability of the components 
+- sparsity structure
+- downstream tasks
