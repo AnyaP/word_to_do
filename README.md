@@ -1,1 +1,1 @@
-# word_to_do
+## Experiments on interpretability and sparsity of probabilistic word embeddings.
